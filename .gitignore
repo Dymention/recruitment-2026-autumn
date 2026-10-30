@@ -1,3 +1,4 @@
 logs/
 melspec
+melspec.exe
 src/*.o
